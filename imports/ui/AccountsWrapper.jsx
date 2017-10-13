@@ -14,6 +14,6 @@ export default class AccountsWrapper extends Component {
   }
 
   render() {
-    return <span ref="container"/>
+    return <span ref="container"/>;
   }
 }
